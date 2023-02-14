@@ -6,6 +6,6 @@ I try to create basic calculator program with Pyhton script.
 
 This is a basic calculator program. In this calculator, addition, subtraction, multiplication and division can be done with only two variables. I wanted some help from ChatGPT to make the code look better on the console. Sliding text looks really cool, I hope you like it :)
 
-## <a href="https://github.com/quatronostro/Python_homework/tree/main/nested_ifelse_example">nested_ifelse_example</a>
+## <a href="https://github.com/quatronostro/Python_homework/tree/main/nested_ifelse_example">nested_ifelse_examplePython</a>
 
-There is good example for nested if else's on Java. I translate it in Python In this example we take gender from user and take age. Program is going to inform user if he/she will be retire or not. 
+There is good <a href= "https://github.com/quatronostro/Java_homework/blob/main/myHomepractise/src/H01_home_practise/nested_ifElse.java">example for nested if else's on Java</a>. I translate it in Python In this example we take gender from user and take age. Program is going to inform user if he/she will be retire or not. 
