@@ -14,3 +14,7 @@ There is a good <a href= "https://github.com/quatronostro/Java_homework/blob/mai
 ## <a href="https://github.com/quatronostro/Python_homework/tree/main/NumberGuessGame">numberGuessGamePython</a>
 
 You have 5 guesses for to find correct number and it must be between 0 and 100, so lets try.
+
+
+## <a href="https://github.com/quatronostro/Python_homework/tree/main/email_generator">emailGenerator</a>
+This is just an email generator, I saw this on my Udemy course and try to create my version of it. I changed I little bit from the question but it generates a fake email list for you. You can see txt file in it.
